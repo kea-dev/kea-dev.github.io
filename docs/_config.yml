@@ -64,11 +64,9 @@ exclude:
 sass:
   style: compressed
 
-#highlighter: rouge
-#
-#timezone: Europe/Copenhagen
-#markdown: kramdown
-#kramdown:
-#  syntax_highlighter: rouge
-#
-#
+highlighter: rouge
+
+timezone: Europe/Copenhagen
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge

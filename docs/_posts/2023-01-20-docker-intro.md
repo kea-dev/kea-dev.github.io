@@ -11,6 +11,8 @@ author: lakruzz
 1. [Structure](#structure)
 1. [Questions](./QUESTIONS.md)
 
+{:toc}
+
 ---
 
 # Purpose
