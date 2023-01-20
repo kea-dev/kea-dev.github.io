@@ -11,7 +11,13 @@ author: lakruzz
 1. [Structure](#structure)
 1. [Questions](./QUESTIONS.md)
 
-{:toc}
+---
+
+{% include toc.html html=content %}
+
+---
+
+{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=3 %}
 
 ---
 
