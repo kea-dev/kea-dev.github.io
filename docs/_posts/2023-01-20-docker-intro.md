@@ -6,20 +6,7 @@ categories: docker training
 author: lakruzz
 ---
 
-1. [Purpose](#purpose)
-1. [Learning objectives](#learning-objectives)
-1. [Structure](#structure)
-1. [Questions](./QUESTIONS.md)
-
----
-
-{% include toc.html html=content %}
-
----
-
-{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=3 %}
-
----
+{% include jekyll-toc.html html=content h_max=2 ordered=true class="toc-list list-style-none" item_class="border-top" anchor_class="d-block py-3 px-3" %}
 
 # Purpose
 This module introduces the fundamentals of [[Docker]] 
