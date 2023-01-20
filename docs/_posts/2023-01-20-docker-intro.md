@@ -6,9 +6,6 @@ categories: docker training
 author: lakruzz
 ---
 
-{% include jekyll-toc.html html=content h_max=2 ordered=true class="toc-list list-style-none" item_class="border-top" anchor_class="d-block py-3 px-3" %}
-
-{% include toc.html content=page.content skip_toc=page.skip_toc%}
 
 # Purpose
 This module introduces the fundamentals of [[Docker]] 
