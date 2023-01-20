@@ -1,3 +1,7 @@
+{:toc}
+
+---
+
 # Contribute
 This page is built with Jekyll and hosted using GitHub Pages.
 
