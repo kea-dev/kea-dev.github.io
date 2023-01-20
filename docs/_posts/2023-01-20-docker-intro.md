@@ -10,7 +10,9 @@ author: lakruzz
 1. [Learning objectives](#learning-objectives)
 1. [Structure](#structure)
 1. [Questions](./QUESTIONS.md)
+
 ---
+
 # Purpose
 This module introduces the fundamentals of [[Docker]] 
 
@@ -18,9 +20,6 @@ This module introduces the fundamentals of [[Docker]]
 Understand the Docker concepts, Setup Docker environment for personal/development use, build images and run containers
 
 # Structure 
-
-
-
 
 # Questions
 ## Basics
