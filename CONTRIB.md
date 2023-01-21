@@ -19,7 +19,7 @@ bundler install
 ```shell
 bundler exec jekyll serve
 ```
-5. Jekyll will build and serve the site on the CodeSpace's port 4000. The CodeSpace will automatically detect the started service and offer you a link to visit the outside of the CodeSpace coming in on port 4000 - accept the link and go see your site live - every time you change something in MarkDown files it comes online instantly.
+5. Jekyll will build and serve the site on the CodeSpace's port 4000. The CodeSpace will automatically detect the started service and offer you a link to visit the outside of the CodeSpace coming in on port 4000 - accept the link and go see your site live - every time you change something in MarkDown files it comes online instantly. If you loose the link - like if you close the browser og tab - you can look it up on the _PORTS_ tab in the bottom panel in the CodeSpace.
 
 **NOTE on `_config.yml`**: The `_config.yml` file constitutes an exception. It is only read during the build process - not the outomated rebuild. So if you want to see changes done in `_config.yml`, you must stop (`CTRL+C`) and restart your service in the terminal.
 
