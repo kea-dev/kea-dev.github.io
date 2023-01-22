@@ -36,7 +36,7 @@ collections:
     permalink: /posts/:title/
     
 # theme: minima
-# theme: slate
+show_excerpts: true
 remote_theme: kea-dev/minima
 
 permalink: /:title/
