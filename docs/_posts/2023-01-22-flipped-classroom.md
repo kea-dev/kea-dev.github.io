@@ -8,11 +8,11 @@ links:
   slides: 
 ---
 
-Teachers lecturing their students is old-school. But what's the alternative? Well, at least in theory it's easy to come up with a contemporary alternative: Rather than teaching knowledge, the teacher becomes an instructor who facilitates and sustains the student's learning. No _teaching_, just _learning_. This blog is about my personal take on how to implement this in practice.
+Teachers lecturing their students is old-school. But what's the alternative? Well, at least in theory it's easy to come up with a contemporary alternative: Rather than teaching knowledge, the teacher becomes an instructor who facilitates and sustains the student's learning. No more _teaching_ from here on it's just _learning_. This blog is about my personal take on how to implement this in practice. A glimpse into what it implies to attend my class.
 {: .kicker}
 
 # Earning your banners - let's do the math
-In the context of The _European Credit Transfer System[^ects]_ (ECTS) points are measured relative to _time spent by the student._ In Denmark one point equals ≈28 hours spent by the student.
+In the context of The _European Credit Transfer System[^ects]_ (ECTS) points are measured relative to _time spent by the student._ In Denmark one point equals ≈28 hours.
 
 [^ects]: The European Credit Transfer System (ECTS) is an obligatory protocol which all Higher Educations in EU/EØS have committed themselves to be compliant with. In this system students earn ECTS points allowing them to freely exchange merits between relevant programmes all across the region. An ECTS point is essentially a measure of _estimated planned time spent by the student_. The Danish Ministry of Higher Education and Science has [interpreted](https://ufm.dk/uddannelse/anerkendelse-og-dokumentation/dokumentation/ects){: target="_blank"} how this system works in Denmark. All Higher Educations must adhere to this Danish interpretation. 
 
@@ -30,7 +30,7 @@ When measuring ECTS as _time spent_ it includes _everything_ relevant to the pro
 - Preparing for exam
 - Attending exam
 
-A semester is 30 ECTS points, so to receive flying colors you are expected to spend no less than ≈840 hours (≈28x30) per semester - A semester is 20 weeks, so that divides to ≈42 hours per week (≈820/20) 
+A semester is 30 ECTS points, so to receive flying colors you are expected to spend no less than ≈840 hours (≈28x30) per semester - A semester is 20 weeks, so that divides to ≈42 hours per week (≈840/20) 
 
 **≈42 hours per week - that's a (busy) full-time job!**
 
@@ -140,7 +140,7 @@ Two considerations arise from introducing this new tool-stack:
 
 Regarding the first consideration I'll promise to not require any use of Microsoft 365 in my instructions at all and I'll also promise to keep Fronter in the loop. So I'll keep Fronter updated and you can continue to use Fronter as your goto tool when you need to lookup what's the program for the next classroom session? are there any announcements I need to know of? But on Fronter I'll only put in a short proxy or placeholder - pointing you to the real action. Which will be a publicly available post - exactly like the one you are reading now - and then we will take it from there.
 
-To the 2<sup>nd<sup/> consideration: Wether or not you should use you school accounts to access GitHub and Google Docs respectively the answer is _"no - setup personal, free accounts and use them"_. This can seem like a bit controversial reply in context of school recommendations and GDPR regulations but I assure you that its not. Individuals are not regulated by GDPR - only organizations providing or enforcing utilization of systems on behalf of individuals are required to be GDPR compliant. Therefore, since the tools I include are accessible from personally managed accounts - not regulated by the school and at no cost to you - I am liberated to include them as a prerequisite for attending my sessions.
+To the 2<sup>nd</sup> consideration: Wether or not you should use you school accounts to access GitHub and Google Docs respectively the answer is _"no - setup personal, free accounts and use them"_. This can seem like a bit controversial reply in context of school recommendations and GDPR regulations but I assure you that its not. Individuals are not regulated by GDPR - only organizations providing or enforcing utilization of systems on behalf of individuals are required to be GDPR compliant. Therefore, since the tools I include are accessible from personally managed accounts - not regulated by the school and at no cost to you - I am liberated to include them as a prerequisite for attending my sessions.
 
 This setup gives you - as a learner - a huge advantage, since you will _always_ have access to the stuff we create together - even after you have left KEA - regardless if you graduate or drop-out.
 
@@ -162,10 +162,19 @@ Over time, as learners and instructors work with these modules and sessions we j
 
 This Open Source repository - and potentially your personal copy of fork of it - will become like a portfolio to you. A source that you can always go back to and recall what was learned. And you can even show-case it to others.
 
+# Learning goals
+- Explore and understand the concept of "flipped classroom" through a self-introduction based on absorbing curated content.
+- Elaborate on the consequences it imposes on roles and responsibilities of both the _teacher/instructor_ and the _students/learners_.
+- Explore the benefits as well as the liabilities of a flipped classroom approach.
+- Get a feel for a _contribution centric_ collaboration platform - as opposed to an _assignment or task centric_ collaboration platform.
+- Access GitHub with a personal account.
+- Access Google Doc with a personal account.
+- Learn the most basic MarkDown features.
+
 # Resources
 Perform _active reading._ scribble notes, questions, perspectives, links, references, drawings, models etc.
 
-- [This post [15:00]](.)
+- [This post [20:00]](.)
 - [Wikipedia on _Flipped Classroom_ [20:00]](https://en.wikipedia.org/wiki/Flipped_classroom){: target="_blank"}<br/>
 - [Flipped Classroom Model: Why, How, and Overview [5:00]](https://www.youtube.com/watch?v=BCIxikOq73Q){: target="_blank"}
 - [Search for more videos on Flipped Classroom [30:00]](https://www.google.com/search?q=flipped+classroom&source=lnms&tbm=vid){: target="_blank"}<br/>
