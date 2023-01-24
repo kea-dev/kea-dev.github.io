@@ -70,9 +70,9 @@ One established and well renowned alternative didactic practice, that is conside
 
 Surely - _Flipped Classroom_ is definitely not a revolution, it's a small and simple concept: Watch your lectures online, do your homework at school and add to that later - if you care. 
 
-An example could be that on the topic of "Flipped Classroom" I would point you to some materials like a wikipedia article and some youtube videos:
+A practical example could be that on the topic of "Flipped Classroom" I would point you to some materials - maybe a wikipedia article on the topic, youtube and a time boxed exercise to go and research more videos on your own:
 
-Lets say that I materials that would take roughly an hour of your time to go through being introduced to the topic at home. At this point you know as much about Flipped Classroom _as if_ I - as a teacher - had poured that same knowledged over you during a lecture. So in a sense you can say that we've saved some of my time - roughly an hour. We can now spend that freed-up time in class doing "homework" - together. 
+Lets say that the materials that would curate and point out to you would occupy roughly an hour of your time to go through - being introduced to the topic at home. Hereafter you know as much about Flipped Classroom _as if_ I - as a teacher - had poured that same knowledged over you during a lecture. So in a sense you can say that we've saved some of my time - roughly an hour. We can now spend that freed-up time in class doing "homework" - together. 
 
 And for the sake of avoiding mistakes I will stop calling it "homework" and refer to it as activities.
 
