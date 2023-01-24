@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Docker Intro"
-date:   2023-01-20 17:31:17 +0000
 categories: docker training
 author: lakruzz
 ---
