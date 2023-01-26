@@ -114,4 +114,3 @@ Honestly - I gotta admit, that I didn't actually watch this particular video mys
 📒 [Basic shell commands](https://www.geeksforgeeks.org/basic-shell-commands-in-linux/){: target="_blank"}<br/>
 📒 [Basic scripting](https://www.geeksforgeeks.org/basic-operators-in-shell-scripting/){: target="_blank"}<br/>
 ⏳ 👀
----
