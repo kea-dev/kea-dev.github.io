@@ -11,7 +11,8 @@ links:
 The _shell_ is where you can peak into the kernel of the Operating System. It's a terminal but it's also an entire programming language; shell scripting. Did you know, that on Linux all it takes to make to make a file executable is a _Shebang:_ _`#!`_. A whole new world opens up when you know Linux and the shell. Let's automate stuff!
 {: .kicker}
 
-I assume you are reading this post, because you are attending a class with [me](https://www.linkedin.com/in/lakruzz/){: target="_blank"} on KEA. If that is indeed the case, then I will allow myself to assume that you have accounts on both [GitHub 🔐](https://github.com/signup?source=login){: target="_blank"} and [Google 🔐](https://account.google.com/){: target="_blank"}. If you don't have these accounts already; please go and sign up before class (free tier accounts are fine on both platforms).
+# Context
+This module is developed in the context of AP programme for Computer Science at Copenhagen School of Technology and Design (KEA). It's part of the fulfillment of the curriculum of the topic [_technology_](https://katalog.kea.dk/course/3050241/2022-2023){: target="_blank"}.
 
 # The Tech Stack
 We will be exploring the following technologies:
