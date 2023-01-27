@@ -34,7 +34,7 @@ We will be exploring the following technologies:
 Marc Andreessen wrote this iconic article for the Wall Street Journal i 2011: "Why Software Is Eating The World". When you read it, remind yourself, that in 2011 the iPone was brand new; iPhone3 it still looked like a bar of soap. Far from everyone owned a smartphone.
 
 ### DevOps you Say?...
-📚 [DevOps you say? No Problemo - We’re SAFe®!" at KEA](https://www.linkedin.com/pulse/devops-you-say-problemo-were-safe-lars-kruse){: target="_blank"}<br/>
+📚 [DevOps you say? No Problemo - We’re SAFe®!](https://www.linkedin.com/pulse/devops-you-say-problemo-were-safe-lars-kruse){: target="_blank"}<br/>
 ⏳ [25:00]
 
 A historical perspective - on how we ended up here, a biased rant against SAFe and a perspective on what DevOps implies in the life of a developer. By yours truly.
