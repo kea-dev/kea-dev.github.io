@@ -1,14 +1,15 @@
 ---
 layout: post
 title:  "Technology Intro"
-categories: docker training
+categories: technology training
 author: lakruzz
+published: false
 ---
-This module introduces the fundamentals of Docker to programmers and developers with no prior knowledge or experience of Docker. It enable developers in general to utilising Docker as a mean to setup development environments programatically and to deploy their work using containers. The first step towards mastering _Infrastructure as Code_.
+Technology is a topic and a discipline just like _system development_ and _programming_. We will utilize tech and tech stacks to sustain and automate other disciplines, including _collaboration_, _documentation_, _verification_. The technology topic will focus on _infrastructe as code_ well actually _anything as code_.
 {: .kicker}
 
 # Structure
-This module is developed in the context of AP programme for Computer Science at Copenhangen School of Technology and Design (KEA). It's part of the fulfillment of the curriculum of the topic _technolgy_.
+This module is developed in the context of AP programme for Computer Science at Copenhagen School of Technology and Design (KEA). It's part of the fulfillment of the curriculum of the topic [_technology_](https://katalog.kea.dk/course/3050241/2022-2023){: target="_blank"}.
 
 
 
