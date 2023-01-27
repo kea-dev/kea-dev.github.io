@@ -54,7 +54,7 @@ Time box this exercise to max 20 minutes and then move on.
 
 ## How To Run Linux Code on Windows with WSL 2 & VS Code
 📺 [YouTube Video](https://www.youtube.com/watch?v=bRW5r7TK6KM){: target="_blank"}<br/>
-⏳ 14:00]
+⏳ [14:00]
 
 Please watch this video - _even if you are not on a Windows PC - it's still relevant_. 
 
