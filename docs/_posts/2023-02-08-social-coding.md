@@ -49,14 +49,37 @@ The concept of a [flipped classroom](/posts/flipped-classroom/) is putting the f
 📚 [Project Planning for Developers](https://github.com/features/issues/){: target="_blank"}<br/>
 ⏱️ [20:00]
 
-This is a link to GitHub's official introduction to projects - it's very high-level and may not actually teach you much. But you can dive into the frequently asked questions or try to explore in another way (try using the link int the Tools stack list above - it points to the manual). time box this to at least 20 mins - familiarize yourself with GitHub Projects - what at they trying to help you with? Try it out in one of your own repositories.
+This is a link to GitHub's official introduction to projects - it's very high-level and may not actually bring you much learning. But use it as a strating point for your exploration of GitHub Projects. Dive into the frequently asked questions (at the bottom of the page) or try to explore the topic in another way (try using the link in [The Tech Stack](#the-tech-stack) list above - it points to the manual). Time box this to at least 20 mins - familiarize yourself with GitHub Projects - what at they trying to help you with? Try it out in one of your own repositories.
 
 ## Git Branching strategies
-[📚](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy){: target="_blank"}<br/>
-⏱️ [30:00]
+📚 [1: Branching strategies](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy){: target="_blank"}<br/>
+⏱️ [30:00]<br/>
 
-Here's a piece on branching strategies - it introduces three different flows: _"Git Flow"_, "GitHub Flow"_ and "GitLab Flow"_ see if you can grasp them - and how they differ.
+📚 [2 Trunk based development ...](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development){: target="_blank"}<br/>
+⏱️ [30:00]<br/>
 
+[1<sup>st</sup> link](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy){: target="_blank"} is a short piece on branching strategies - it introduces three different flows: _"Git Flow"_, "GitHub Flow"_ and "GitLab Flow"_ see if you can grasp them - and how they differ.
+
+In the old days (ten-fifteen years ago) branching strategies were really a _hot topic_ - and it wasn't easy. Today there seem to be a convention among most teams that some variant of keeping the _master_ (a.k.a _trunk_ or _main_) pristine and ready for deploy is the way to go. This concept too has many names; _trunk-based development_ (derives from an old - now obsolete version control system called Subversion), or _Release Train_ which comes from SAFe - a framework that claims tha Agile can scale. Read about Trunk-based developement it in [the 2<sup>nd</sup> link](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development){: target="_blank"}.  And the ask yourself? Is _GitHub Flow_ compliant with the concept of "trunk based development"? Is _Git Flow?_
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3197_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/05vqwg","geo":"","time":"2004-01-01 2023-02-08"},{"keyword":"/m/012ct9","geo":"","time":"2004-01-01 2023-02-08"},{"keyword":"/m/0ryppmg","geo":"","time":"2004-01-01 2023-02-08"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=%2Fm%2F05vqwg,%2Fm%2F012ct9,%2Fm%2F0ryppmg","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+
+The graph above is just for fun - git is disruptive - literally. It killed Subversion! And GitHub is now more popular and used - than git itself. _The tail wagging the dog?_
+
+## KanBan - Signalling board
+📺 [1: Atlassian's take on KanBan](https://www.youtube.com/watch?v=iVaFVa7HYj4){: target="_blank"}<br/>
+⏱️ [06:00]<br/>
+
+📚 [2: Scrum/KanBan difference](https://miro.com/blog/scrum-kanban-boards-differences/){: target="_blank"}<br/>
+⏱️ [15:00] (read time), 📺 [11:00] (three embedded videos)<br/>
+
+We touched briefly on KanBan earlier. The method is old (1980'ies) - it derives from "TPS - Toyota Production System" - Lean Manufacturing. To many it's seen as an alternative method to Scrum. Luckily KanBan is merely a technique and Scrum is (sometimes) a methodology - not (always) a religion - so you are free to combine them if you got the stomach for it.
+
+Watch [Atlassian's take on KanBan](https://www.youtube.com/watch?v=iVaFVa7HYj4){: target="_blank"} - and [Miro's explanations of the difference](https://miro.com/blog/scrum-kanban-boards-differences/){: target="_blank"} between KanBan and Scrum.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iVaFVa7HYj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+What are your thoughts? any preferences?
 
 # Additional resources
 
