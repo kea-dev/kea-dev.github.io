@@ -69,6 +69,47 @@ Think of these assignments as you - building your own portfolio. You are encoura
 
 Leave a trace for yourself to follow. Then you can always find your way back!
 
+# Automated workflows
+Most of the assignments are setup using _auto grading_ features.
+
+Every time you push to GitHub the _GitHub Actions_ kicks in and starts a workflow that will test if your repository is in the expected state. You can always go and check the status on you most recent push at the _"Actions"_ tab on you repository at GitHub.
+
+<img width="200" align="right" alt="image" src="https://user-images.githubusercontent.com/155492/220343689-b5d8aae6-a6c7-400d-bdfe-94546ac992f8.png"> You are interested in the Job called _"Autograding"_ defined in `classrooms.yml` Click and expand the job and locate the step named _"Run education/autograding..."_
+
+Every time you push to GitHub it runs again - so if something is broken, go back to your repo, fix the issue and git `add` + `commit` + `push` 
+
+If you would like to run the tests in the autograding action locally - before you commit then have a look at the `classroom.yml`. 
+
+Run in terminal:
+```shell
+cat .github/classroom/autograding.json
+```
+
+You see each step has a `run:` clause - could look like this:
+
+```json
+      {
+        "name": "Test if push.default is set in .gitconfig",
+        "setup": "",
+        "run": ".github/classroom/pushdefault.sh",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 10,
+        "points": 25
+      }   
+```
+
+To run the test locally in you repo, simply copy whatever the `run` clause does and execuute it from the terminal - example from above:
+
+```shell
+.github/classroom/pushdefault.sh
+```
+
+**NOTE:** Sometimes a test deliberately alters the state of the repository for the next test to take over - so a given test _can_ be dependant on the previous test has run.
+
+...you'll figure it out!
+
 # Getting help 
 
 #### The issues in the assignments
