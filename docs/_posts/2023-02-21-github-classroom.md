@@ -11,7 +11,7 @@ Most training modules listed here on docs.kea.dev uses GitHub Classroom Assignme
 
 The modules here on [docs.kea.dev](/) have [GitHub Classroom](){: target="_blank"} assignment. The assignments are based on GitHub repositories. 
 
-An assignment is based is based on a template repository. When you accept an assignment a GitHub repository is created as a copy from the template. It's not a_clone_, it's not a _fork_. It's a detached _copy_ - it doesn't share any history with the template repository.
+An assignment is based is based on a template repository. When you accept an assignment a GitHub repository is created as a copy from the template. It's not a _clone_, it's not a _fork_. It's a detached _copy_ - it doesn't share any history with the template repository.
 
 - In _group assignments_ you share a repository among the group.
 - In _individual assignments_ you get your own repository.
@@ -22,7 +22,7 @@ To accept an assignment you will need an invitation link (usually available in t
 # Don't be a stranger
 The assignments are most often supplement to a [flipped classroom](posts/flipped-classroom/) approach - it means that we will do these exercises in class together where you can get support: Instructors can support learners - and learners can support each other.
 
-The exercises are _not_ designed to be _homework_ - but if you aren't able to join class, then you should work your way through them.
+The exercises are _not_ designed to be _homework_ - but if you aren't able to join class, then you should of course try to work your way through them at home.
 
 # Ground rules
 A few words on the assignments:
@@ -100,7 +100,7 @@ You see each step has a `run:` clause - could look like this:
       }   
 ```
 
-To run the test locally in you repo, simply copy whatever the `run` clause does and execuute it from the terminal - example from above:
+To run the test locally in you repo, simply copy whatever the `run` clause does and execute it from the terminal - example from above:
 
 ```shell
 .github/classroom/pushdefault.sh
@@ -118,9 +118,8 @@ Each Github assignment is based on issues - exploit that to ask the questions or
 #### Discussions at the kea-dev organization on GitHub
 If you're alone - and your're stuck you can go to the [discussions at kea.dev on GitHub](https://github.com/orgs/kea-dev/discussions){: target="_blank"}. Be aware that it's an open discussion forum - anyone can join, anyone can see your questions and posts and anyone can reply and comment. 
 
-It's much like [Stack Overflow](https://stackoverflow.com/){: target="_blank"} but in a KEA _safespace_ 👷. 
+It's much like [Stack Overflow](https://stackoverflow.com/){: target="_blank"} but in a KEA _safe space_ 👷. 
 
 
 #### Me - solving my own assignments
-To some of the assignments I've recrecorded myself solving my own issues - if that is the case, then the videos will be available on the modul's pos on [docs.kes.dev](/).
----
+To some of the assignments I've rerecorded myself solving my own issues - if that is the case, then the videos will be available on the module's post on [docs.kea.dev](/).
