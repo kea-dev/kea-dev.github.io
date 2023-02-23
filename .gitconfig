@@ -3,7 +3,7 @@
 	root = rev-parse --show-toplevel
 	tree = log --graph --all --oneline
 	co = checkout
-	ct = commit
+	cm = commit -m
 	st = status
 	addremove = add -A
 [push]
