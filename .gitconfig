@@ -1,0 +1,10 @@
+# git config --local include.path ../.gitconfig
+[alias]
+	root = rev-parse --show-toplevel
+	tree = log --graph --all --oneline
+	co = checkout
+	ct = commit
+	st = status
+	addremove = add -A
+[push]
+	default = current
