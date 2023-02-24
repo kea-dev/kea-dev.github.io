@@ -40,6 +40,7 @@ Read the first six sections in GitHub's quickstart guide to actions
 
 ### Build Java Maven
 Read through the Maven example:
+
 📚 [GitHub Actions - Build With Maven](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-maven){: target="_blank"}<br/>
 ⏳ [15:00]
 
