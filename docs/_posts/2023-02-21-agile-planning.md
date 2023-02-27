@@ -3,7 +3,6 @@ layout: post
 title:  "Agile planning"
 categories: learning
 author: lakruzz
-published: false
 links:
   repo:
   slides: 
@@ -36,18 +35,21 @@ The class is now redefined as a _team_ (not a _class_, not a _group_, not an _or
 
 Now we need _team_ tools - and your preparation before the class is to Sign up and introduce yourself:
 
-1. Join a Trello _organization_ (their lingo for _team_)
-  1. Join a Trello _board_
-  1. create a profile _card_
-3. Join a GitHub _team_
-  1. Join a GitHub _project_
-  1. Create a GitHub Profile `README.md`
-
-
+Join a Trello _organization_ (their lingo for _team_) and join a GitHub _team_.
 
 ### IT Architects @ KEA - Team 2022
 
+#### Trello
+1. Use this link to [join an organization on Trello](https://trello.com/invite/keaita22/ATTIf2cb297cca1a63b1fe5ff6298cd8f089427F6405){: target="_blank"}
 
+2. Then use this link to join [the _"Portfolio"_ board](https://trello.com/invite/b/vbC8QgdX/ATTId2026bcfe8e82c810227a9a3d249788b9C37E473/portfolio){: target="_blank"}
+
+3. An finally use this link to see [the template card](https://trello.com/c/86wkpmBk/1-your-name){:target="_blank"} - click _"Create card from template"_ put the card in the _"Members"_ list and work the five task from the list.
+
+#### GitHub
+
+1. Accept [this assignment in GitHub Classroom](https://classroom.github.com/a/6GRQARFH){:target="_blank"}
+2. Open the repository shown to you in the process and work the two tasks described in the `README.md`.
 
 
 # Resources
@@ -76,13 +78,3 @@ Watch [Atlassian's take on Kanban](https://www.youtube.com/watch?v=iVaFVa7HYj4){
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iVaFVa7HYj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 What are your thoughts? any preferences?
-
-# Additional Resources
-
-### DevOps you Say?...
-📚 [DevOps you say? No Problemo - We’re SAFe®!](https://www.linkedin.com/pulse/devops-you-say-problemo-were-safe-lars-kruse){: target="_blank"}<br/>
-⏳ [25:00]
-
-A historical perspective - on how we ended up here, a critical view on _scaled agile_ - represented by SAFe and a perspective on what DevOps implies in the life of a developer. By yours truly.
-
-This section gives you more - but on a strictly volunteer basis. Continue to explore if you like. But in order to tag along in class, the resources above are sufficient.
