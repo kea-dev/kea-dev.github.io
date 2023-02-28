@@ -44,7 +44,12 @@ Join a Trello _organization_ (their lingo for _team_) and join a GitHub _team_.
 
 2. Then use this link to join [the _"Portfolio"_ board](https://trello.com/invite/b/vbC8QgdX/ATTId2026bcfe8e82c810227a9a3d249788b9C37E473/portfolio){: target="_blank"}
 
-3. An finally use this link to see [the template card](https://trello.com/c/86wkpmBk/1-your-name){:target="_blank"} - click _"Create card from template"_ put the card in the _"Members"_ list and work the five task from the list.
+3. An finally use this link to see [the template card](https://trello.com/c/86wkpmBk/1-your-name){:target="_blank"} 
+
+<img width="314" align="left" alt="image" src="https://user-images.githubusercontent.com/155492/221979162-dccf5783-1661-48af-9e9a-1a19576134c1.png">
+
+Click _"Create card from template"_ Copy over lists and labels - put the card in the _"Members"_ list and work the five task from the list.
+
 
 #### GitHub
 

@@ -8,3 +8,5 @@
 	addremove = add -A
 [push]
 	default = current
+
+# Create an alias that will look up previous tags that follow semantic versioning and increment the patch version
