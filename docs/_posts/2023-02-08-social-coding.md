@@ -58,7 +58,7 @@ This is a link to GitHub's official introduction to projects - it's very high-le
 📚 [2 Trunk based development ...](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development){: target="_blank"}<br/>
 ⏱️ [30:00]<br/>
 
-[1<sup>st</sup> link](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy){: target="_blank"} is a short piece on branching strategies - it introduces three different flows: _"Git Flow"_, "GitHub Flow"_ and "GitLab Flow"_ see if you can grasp them - and how they differ.
+[1<sup>st</sup> link](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy){: target="_blank"} is a short piece on branching strategies - it introduces three different flows: _"Git Flow"_, _"GitHub Flow"_ and _"GitLab Flow"_ see if you can grasp them - and how they differ.
 
 In the old days (ten-fifteen years ago) branching strategies were really a _hot topic_ - and it wasn't easy. Today there seem to be a convention among most teams that some variant of keeping the _master_ (a.k.a _trunk_ or _main_) pristine and ready for deploy is the way to go. This concept too has many names; _trunk-based development_ (derives from an old - now obsolete version control system called Subversion), or _Release Train_ which comes from SAFe - a framework that claims tha Agile can scale. Read about Trunk-based developement it in [the 2<sup>nd</sup> link](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development){: target="_blank"}.  And the ask yourself? Is _GitHub Flow_ compliant with the concept of "trunk based development"? Is _Git Flow?_
 
